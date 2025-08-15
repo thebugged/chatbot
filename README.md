@@ -1,8 +1,8 @@
 
 <div align="center">
   <br />
-    <a href="#" target="_blank">
-      <img src="https://github.com/user-attachments/assets/your-banner-image-here" alt="AI Chat App Banner">
+    <a href="https://chatbot-chat.streamlit.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/a9e34727-1517-4b9d-bf2c-0daf25e4af31" alt="ChatApp Banner">
     </a>
   <br />
 
@@ -67,7 +67,7 @@ streamlit run main.py
 
 2. Open your browser and navigate to `http://localhost:8501`
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-chat.streamlit.app/)
 
 
 
